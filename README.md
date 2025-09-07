@@ -2,4 +2,5 @@
 A responsive portfolio website to display my work and professional skills. Designed for both desktop and mobile users
 
 
-<img width="1887" height="872" alt="portfolioooo" src="https://github.com/user-attachments/assets/e318e4e9-e158-4cf5-b37d-be85f5f92e29" />
+
+<img width="1882" height="878" alt="portfolio1" src="https://github.com/user-attachments/assets/dde8cef8-62d7-4d65-9e76-cd7afcc9c18d" />
